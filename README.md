@@ -54,6 +54,6 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 Contact
 For queries, contact:
 
-Muhammad Faraz KK
-Email: [khokharfaraz54@gmail.com]
+Muhammad Haseeb Butt
+Email: [Muhammad Haseeb Butt]
 
